@@ -1,5 +1,5 @@
-# ubuntu-i3wm-keybindings
+# gnome-i3-style
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/in-jun/ubuntu-i3wm-keybindings/main/setup-i3wm-keybindings.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/in-jun/gnome-i3-style/main/setup.sh)
 ```
